@@ -1,30 +1,36 @@
-# 👋 Hello, I'm **CANER**
+# 👋 Hi, I'm **Caner Sürmelioğlu**
 
-## 🌍 About Me  
-📍 I live in **Antalya, Turkey**  
-🎓 Studying **Computer Programming** at *Akdeniz University*  
-💻 Passionate **Software Developer** focusing on both **Frontend** & **Backend**  
-🌱 Constantly learning, building projects, and contributing to **open source**
+## 💻 Software Developer | Backend · Frontend · AI Enthusiast
 
----
-
-## 🛠️ Skills  
-🧠 Programming Languages I’m working with:  
-- 💡 **C**  
-- ⚙️ **C#**  
-- 🪟 **Visual Basic**  
-- 🌐 **JavaScript**
+I’m a passionate software developer based in **Antalya, Turkey**, and a recent graduate of **Computer Programming** from *Akdeniz University*.  
+With a solid foundation in both **desktop** and **web development**, I’ve built various projects using **C, C#, SQL, HTML, CSS, JavaScript**, and more.  
+I enjoy working across different areas of software — from crafting backend logic to designing frontend interfaces, and recently, exploring the world of **Artificial Intelligence**.
 
 ---
 
-## 📬 Contact Me  
-📸 [**Instagram**](https://www.instagram.com/caner.exe07/) – `@caner.exe07`  
-🐦 [**Twitter/X**](https://x.com/Caner_exe) – `@Caner_exe`  
-📧 **E-mail** – `canersurmelioglu@gmail.com`
+## 🧠 Tech Stack & Tools
+
+- 💡 **Languages:** C, C#, Visual Basic, JavaScript, SQL  
+- 🖥️ **Technologies:** HTML, CSS, Delphi, WordPress  
+- 🧰 **Tools:** Adobe Photoshop, Illustrator, Git  
 
 ---
 
-## 🚀 Let’s Build the Future Together  
-🤝 Open to **collaboration**  
-📚 Eager to **learn** and **grow**  
-🌐 Excited to create and contribute to meaningful **projects**
+## 🚀 Goals & Vision
+
+- 🔍 Continuously improving my coding and problem-solving skills  
+- 🧠 Exploring AI and machine learning technologies  
+- 🤝 Seeking opportunities to contribute to real-world projects  
+- 🌍 Open to remote and hybrid collaboration opportunities
+
+---
+
+## 📬 Let’s Connect
+
+📧 **Email:** canersurmelioglu@gmail.com  
+📸 [**Instagram**](https://www.instagram.com/caner.exe07/)  
+🐦 [**Twitter/X**](https://x.com/Caner_exe)
+
+---
+
+> “Code is not just what I do, it’s how I create, learn, and connect.”
