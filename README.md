@@ -10,7 +10,7 @@ I enjoy working across different areas of software — from crafting backend log
 
 ## 🧠 Tech Stack & Tools
 
-- 💡 **Languages:** C, C#, Visual Basic, JavaScript, SQL  
+- 💡 **Languages:** C#, Visual Basic, DART, SQL  
 - 🖥️ **Technologies:** HTML, CSS, Delphi, WordPress  
 - 🧰 **Tools:** Adobe Photoshop, Illustrator, Git  
 
